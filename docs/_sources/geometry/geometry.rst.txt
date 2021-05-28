@@ -1,7 +1,0 @@
-Geometry
-========
-
-.. toctree::
-   camera.rst
-   pose.rst
-

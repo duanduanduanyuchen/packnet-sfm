@@ -1,8 +1,0 @@
-HorovodTrainer
-==============
-
-.. automodule:: packnet_sfm.trainers.HorovodTrainer
-   :members:
-   :undoc-members:
-   :show-inheritance:
-

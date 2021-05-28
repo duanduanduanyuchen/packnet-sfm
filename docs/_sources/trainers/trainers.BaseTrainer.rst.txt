@@ -1,8 +1,0 @@
-BaseTrainer
-===========
-
-.. automodule:: packnet_sfm.trainers.base_trainer
-   :members:
-   :undoc-members:
-   :show-inheritance:
-

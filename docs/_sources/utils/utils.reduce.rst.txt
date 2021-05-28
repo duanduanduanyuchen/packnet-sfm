@@ -1,8 +1,0 @@
-Reduce
-======
-
-.. automodule:: packnet_sfm.utils.reduce
-   :members:
-   :undoc-members:
-   :show-inheritance:
-

@@ -1,8 +1,0 @@
-DepthResNet
-===========
-
-.. automodule:: packnet_sfm.networks.depth.DepthResNet
-   :members:
-   :undoc-members:
-   :show-inheritance:
-

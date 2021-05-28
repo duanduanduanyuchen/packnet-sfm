@@ -1,8 +1,0 @@
-Config
-======
-
-.. automodule:: packnet_sfm.utils.config
-   :members:
-   :undoc-members:
-   :show-inheritance:
-

@@ -1,8 +1,0 @@
-WandbLogger
-===========
-
-.. automodule:: packnet_sfm.loggers.WandbLogger
-   :members:
-   :undoc-members:
-   :show-inheritance:
-

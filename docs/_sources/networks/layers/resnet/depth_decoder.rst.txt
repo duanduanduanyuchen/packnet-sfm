@@ -1,7 +1,0 @@
-depth_decoder
-=============
-
-.. automodule:: packnet_sfm.networks.layers.resnet.depth_decoder
-   :members:
-   :undoc-members:
-   :show-inheritance:

@@ -1,8 +1,0 @@
-Horovod
-=======
-
-.. automodule:: packnet_sfm.utils.horovod
-   :members:
-   :undoc-members:
-   :show-inheritance:
-

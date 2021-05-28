@@ -1,8 +1,0 @@
-Network Layers
-==============
-
-.. toctree::
-   :glob:
-
-   resnet/resnet.rst
-   packnet/packnet.rst

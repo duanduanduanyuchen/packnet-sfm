@@ -1,7 +1,0 @@
-MultiViewPhotometricLoss
-========================
-
-.. automodule:: packnet_sfm.losses.multiview_photometric_loss
-   :members:
-   :undoc-members:
-   :show-inheritance:

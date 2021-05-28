@@ -1,8 +1,0 @@
-Augmentations
-=============
-
-.. automodule:: packnet_sfm.datasets.augmentations
-   :members:
-   :undoc-members:
-   :show-inheritance:
-

@@ -1,7 +1,0 @@
-LossBase
-========
-
-.. automodule:: packnet_sfm.losses.loss_base
-   :members:
-   :undoc-members:
-   :show-inheritance:

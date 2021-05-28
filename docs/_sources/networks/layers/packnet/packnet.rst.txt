@@ -1,7 +1,0 @@
-PackNet
-=======
-
-.. toctree::
-   :glob:
-
-   layers01.rst

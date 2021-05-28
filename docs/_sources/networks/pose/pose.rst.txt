@@ -1,9 +1,0 @@
-Pose Networks
-=============
-
-.. toctree::
-   :glob:
-
-   networks.pose.PoseNet
-   networks.pose.PoseResNet
-

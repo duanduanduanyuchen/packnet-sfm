@@ -1,7 +1,0 @@
-Pose
-====
-
-.. toctree::
-   geometry.pose.pose
-   geometry.pose.pose_utils
-

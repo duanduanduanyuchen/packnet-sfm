@@ -1,7 +1,0 @@
-Evaluation
-==========
-
-.. automodule:: scripts.eval
-   :members:
-   :undoc-members:
-   :show-inheritance:

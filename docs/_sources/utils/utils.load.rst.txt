@@ -1,8 +1,0 @@
-Loading
-=======
-
-.. automodule:: packnet_sfm.utils.load
-   :members:
-   :undoc-members:
-   :show-inheritance:
-
